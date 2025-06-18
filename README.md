@@ -1,25 +1,32 @@
 🎯 Objective & Problem Statement:
 
-To provide a centralized and interactive platform to track the spread and impact of COVID-19 globally. Health departments and the public struggled to interpret dense tables of COVID data without visual context.
+To help transportation departments identify causes, locations, and time patterns of road accidents. Traditional logs lacked real-time insights and visual analytics to support safety initiatives.
 
 📌 Project Description:
 
-Built a comprehensive COVID-19 dashboard using global datasets to track confirmed cases, deaths, recoveries, and testing metrics. It supports country and date-based filtering, making it useful for analyzing how the pandemic evolved over time and space.
+Developed a Power BI dashboard to analyze accident data across different parameters like vehicle type, location, time of day, and cause. The dashboard supports the formulation of targeted traffic policies and safety measures.
 
 🛠️ Technology Used:
 
-Power BI, DAX, Power Query
+Power BI, DAX, Power Query, Excel
 
 ✨ Key Features:
 
-1. Global and country-wise case tracking (daily/total)
+1. Filters for accident type, vehicle, day, and region
 
-2. Time-series graphs for infection, death, and recovery trends
+2. Visual comparison of fatal vs. non-fatal accidents
 
-3. Region-based comparison using interactive maps
+3. Heatmaps to highlight accident-prone zones
 
-4. Filters for continent, country, and time range
+4. Time slot-based analysis of accidents (e.g., peak hours)
 
-5. Calculated death rate, recovery rate, and active cases
+5. Insight cards for quick view of total deaths, injuries, and cases
+
+Excel Dashbord:
+
+![image](https://github.com/user-attachments/assets/97a87b9a-6776-4824-acf7-ff39c59115b9)
+
+Power BI Dashboard :
+
 
 ![image](https://github.com/user-attachments/assets/fb9f97a0-41c2-4b96-886e-7e1ec60a1d0d)
